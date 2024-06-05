@@ -1,0 +1,9 @@
+[submodule "QTDesktopSimulator"]
+	path = QTDesktopSimulator
+	url = https://github.com/MohamedAffess/QTDesktopSimulator.git
+[submodule "networkBrandings"]
+	path = networkBrandings
+	url = https://github.com/MohamedAffess/networkBrandings.git
+[submodule "Mesh"]
+	path = Mesh
+	url = https://github.com/MohamedAffess/Mesh.git
